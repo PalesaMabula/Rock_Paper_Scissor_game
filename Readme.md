@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-A browser-based Rock Paper Scissors game with a name-entry flow, two game modes (vs Computer or vs a Friend on the same device), a "Rock… Paper… Scissors… Shoot!" countdown animation, and score tracking. Built with plain HTML, CSS, and JavaScript — no frameworks, no build step.
+A browser-based Rock Paper Scissors game with a name-entry flow, two game modes (vs Computer or vs a Friend on the same device), a "Rock… Paper… Scissors… Shoot!" countdown animation, and score tracking. 
 
 ## Features
 
@@ -16,10 +16,10 @@ A browser-based Rock Paper Scissors game with a name-entry flow, two game modes 
 
 ```
 rock-paper-scissor-game/
-├── index.html   # Page structure — the three screens (name entry, pass-device, game)
-├── style.css    # All styling: theme, layout, animations, responsive rules
-├── script.js    # Game logic: state, event handlers, round/animation flow
-└── README.md    # This file
+├── index.html
+├── style.css    
+├── script.js
+└── README.md    
 ```
 
 ## Running it locally
@@ -29,9 +29,6 @@ No installation required.
 1. Download/clone the folder so `index.html`, `style.css`, and `script.js` are together in the same directory.
 2. Double-click `index.html` to open it in your browser.
 
-That's it — everything runs client-side.
-
-**Optional (for live-reload while editing):** install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VS Code, then right-click `index.html` → **Open with Live Server**.
 
 ## Tech
 
